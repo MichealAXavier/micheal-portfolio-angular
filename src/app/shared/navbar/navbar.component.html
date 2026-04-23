@@ -1,5 +1,5 @@
 <nav class="navbar">
-  <div class="container nav-content">
+  <div class="nav-content">
 
     <!-- Logo -->
     <div class="logo">
@@ -12,7 +12,6 @@
     <!-- Menu -->
     <ul [class.active]="isMenuOpen">
 
-      <!-- Scroll Sections -->
       <li><a (click)="navigateToSection('home')"><i class="fas fa-home"></i> Home</a></li>
       <li><a (click)="navigateToSection('about')"><i class="fas fa-user"></i> About</a></li>
       <li><a (click)="navigateToSection('skills')"><i class="fas fa-code"></i> Skills</a></li>
@@ -22,14 +21,12 @@
       <li><a (click)="navigateToSection('certifications')"><i class="fas fa-certificate"></i> Certifications</a></li>
       <li><a (click)="navigateToSection('achievements')"><i class="fas fa-trophy"></i> Achievements</a></li>
 
-      <!-- Separate Page -->
       <li>
         <a routerLink="/articles" (click)="closeMenu()">
           <i class="fas fa-blog"></i> Articles
         </a>
       </li>
 
-      <!-- Contact Modal -->
       <li>
         <button (click)="openContact(); closeMenu()" class="contact-btn">
           <i class="fas fa-envelope"></i> Contact

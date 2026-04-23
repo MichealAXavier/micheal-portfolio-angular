@@ -82,16 +82,19 @@ export class ContactComponent {
         environment.emailjs.templateId,
         payload,
         environment.emailjs.publicKey
-      )
-      .then((response) => {
-        // force toast BEFORE any UI changes
-        setTimeout(() => {
-          this.toastr.success('Message sent successfully!');
-        }, 0);
+      ).then(() => {
 
-        this.clear();
+  this.toastr.success('Message sent successfully!');
+
+  // delay closing modal
+  setTimeout(() => {
+    this.clear();
+    this.close();
+  }, 400);
+this.clear();
         this.close();
-      })
+})
+    
       .catch((error) => {
         console.error('EmailJS Error:', error);
 
