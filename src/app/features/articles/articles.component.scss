@@ -1,0 +1,258 @@
+.articles-container {
+  padding: 24px;
+  font-family: 'Segoe UI', system-ui, sans-serif;
+  background: #f8fafc;
+}
+
+
+/* 🔎 TOP BAR BASE */
+.top-bar {
+  display: flex;
+  gap: 12px;
+  margin-bottom: 16px;
+  align-items: center;
+}
+
+/* INPUT + SELECT BASE STYLE */
+.top-bar input,
+.top-bar select {
+  padding: 12px 14px;
+  border-radius: 10px;
+  border: 1px solid #e5e7eb;
+  font-size: 14px;
+  outline: none;
+  background: #fff;
+  transition: all 0.2s ease;
+}
+
+/* FOCUS STATE */
+.top-bar input:focus,
+.top-bar select:focus {
+  border-color: #6366f1;
+  box-shadow: 0 0 0 3px rgba(99,102,241,0.15);
+}
+
+/* 🎯 SELECT SPECIFIC ENHANCEMENT */
+.top-bar select {
+  cursor: pointer;
+  min-width: 180px;
+  appearance: none; /* removes default arrow styling (optional modern look) */
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='20' height='20' viewBox='0 0 20 20'%3E%3Cpath fill='%236366f1' d='M5.5 7l4.5 5 4.5-5z'/%3E%3C/svg%3E");
+  background-repeat: no-repeat;
+  background-position: right 12px center;
+  background-size: 14px;
+  padding-right: 36px;
+}
+
+/* 🖥️ TABLET */
+@media (max-width: 900px) {
+  .top-bar {
+    flex-wrap: wrap;
+  }
+
+  .top-bar input {
+    flex: 1;
+    min-width: 200px;
+  }
+
+  .top-bar select {
+    flex: 1;
+    min-width: 160px;
+  }
+}
+
+/* 📱 MOBILE */
+@media (max-width: 600px) {
+  .top-bar {
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  .top-bar input,
+  .top-bar select {
+    width: 100%;
+  }
+
+  .top-bar select {
+    min-width: 100%;
+  }
+}
+
+/* 🏷 TAG BAR */
+.tag-bar {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 20px;
+  flex-wrap: wrap;
+
+  button {
+    border: none;
+    padding: 6px 12px;
+    border-radius: 20px;
+    cursor: pointer;
+    background: #e0e7ff;
+    color: #3730a3;
+    font-weight: 500;
+    transition: 0.2s;
+  }
+
+  button:hover {
+    background: #6366f1;
+    color: white;
+  }
+}
+
+/* 🎴 GRID */
+.grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 18px;
+}
+
+/* CARD */
+.card {
+  background: white;
+  padding: 18px;
+  border-radius: 14px;
+  border: 1px solid #eef2f7;
+  box-shadow: 0 6px 18px rgba(0,0,0,0.06);
+  transition: 0.25s;
+  position: relative;
+  overflow: hidden;
+}
+
+.card:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 10px 25px rgba(99,102,241,0.15);
+}
+
+/* ICON */
+.icon {
+  font-size: 22px;
+  color: #6366f1;
+  margin-bottom: 10px;
+}
+
+/* TITLE */
+h3 {
+  font-size: 16px;
+  font-weight: 600;
+  margin-bottom: 8px;
+}
+
+/* TAG */
+.tag {
+  display: inline-block;
+  font-size: 12px;
+  padding: 4px 10px;
+  border-radius: 20px;
+  background: #f1f5f9;
+  color: #334155;
+  margin-bottom: 8px;
+}
+
+/* FOOTER */
+.footer {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 12px;
+
+  a {
+    color: #6366f1;
+    font-weight: 500;
+    text-decoration: none;
+  }
+}
+
+/* PAGINATION */
+.pagination {
+  margin-top: 25px;
+  display: flex;
+  justify-content: center;
+  gap: 8px;
+
+  button {
+    padding: 8px 12px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    background: #e2e8f0;
+  }
+
+  button.active {
+    background: #6366f1;
+    color: white;
+  }
+}
+
+/* 📱 TABLET */
+@media (max-width: 900px) {
+  .grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+/* 📱 MOBILE */
+@media (max-width: 600px) {
+
+  .grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+
+/* 🚫 EMPTY STATE */
+.empty-state {
+  text-align: center;
+  padding: 60px 20px;
+  background: #fff;
+  border-radius: 16px;
+  border: 1px dashed #cbd5e1;
+  margin-top: 20px;
+  animation: fadeIn 0.3s ease-in-out;
+}
+
+.empty-icon {
+  font-size: 50px;
+  color: #94a3b8;
+  margin-bottom: 10px;
+}
+
+.empty-state h2 {
+  font-size: 20px;
+  color: #0f172a;
+  margin-bottom: 8px;
+}
+
+.empty-state p {
+  color: #64748b;
+  margin-bottom: 16px;
+}
+
+/* 🔘 BUTTON */
+.empty-state button {
+  padding: 10px 16px;
+  border: none;
+  border-radius: 10px;
+  background: #6366f1;
+  color: white;
+  cursor: pointer;
+  transition: 0.2s;
+}
+
+.empty-state button:hover {
+  background: #4f46e5;
+}
+
+/* ✨ ANIMATION */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}

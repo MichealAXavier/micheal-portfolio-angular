@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\app",
+    "\\src\\app\\features",
+    "\\src\\app\\features\\about"
+  ],
+  "SelectedNode": "\\src\\app\\features\\about\\about.component.scss",
+  "PreviewInSolutionExplorer": false
+}

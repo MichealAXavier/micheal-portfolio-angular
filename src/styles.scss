@@ -1,1 +1,24 @@
-/* You can add global styles to this file, and also import other style files */
+/* Remove default spacing */
+body {
+  margin: 0;
+}
+
+/* Full height layout */
+html, body {
+  height: 100%;
+}
+html {
+  scroll-behavior: smooth;
+}
+
+/* App container */
+.app-container {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+/* Content takes remaining space */
+.main-content {
+  flex: 1;
+}

@@ -1,0 +1,101 @@
+<section class="projects-section">
+
+  <!-- HEADER -->
+  <div class="section-header">PROJECTS</div>
+
+  <div class="projects-container">
+
+    <!-- PROJECT 1 -->
+    <div class="project-card" (click)="toggle(0)">
+
+      <div class="project-header">
+        <h3>Amil Freight</h3>
+
+        <div class="tech">
+          <i class="devicon-angularjs-plain colored"></i>
+          <i class="devicon-dotnetcore-plain colored"></i>
+          <i class="devicon-microsoftsqlserver-plain colored"></i>
+          <i class="devicon-python-plain colored"></i>
+        </div>
+      </div>
+
+      <p class="short">
+        Logistics platform for booking, tracking, billing, and settlements.
+      </p>
+
+      <div class="details" *ngIf="activeIndex === 0">
+        <ul>
+          <li>Improved operational efficiency and system reliability.</li>
+          <li>Built reusable email templates and deletion workflows.</li>
+          <li>Implemented rights-based authorization model.</li>
+          <li>Integrated Python sentiment analysis with .NET worker service.</li>
+          <li>Enhanced billing accuracy via carrier deduction logic.</li>
+        </ul>
+      </div>
+
+    </div>
+
+    <!-- PROJECT 2 -->
+    <div class="project-card" (click)="toggle(1)">
+
+      <div class="project-header">
+        <h3>Empower HRMS</h3>
+
+        <div class="tech">
+          <i class="devicon-angularjs-plain colored"></i>
+          <i class="devicon-dotnetcore-plain colored"></i>
+          <i class="devicon-microsoftsqlserver-plain colored"></i>
+        </div>
+      </div>
+
+      <p class="short">
+        HRMS platform for leave, payroll, attendance, and assets.
+      </p>
+
+      <div class="details" *ngIf="activeIndex === 1">
+        <ul>
+          <li>Implemented complex leave validations.</li>
+          <li>Developed document management module.</li>
+          <li>Built Excel import/export with validations.</li>
+          <li>Created recruiter & candidate reports.</li>
+          <li>Developed asset management modules.</li>
+        </ul>
+      </div>
+
+    </div>
+
+    <!-- PROJECT 3 -->
+    <div class="project-card" (click)="toggle(2)">
+
+      <div class="project-header">
+        <h3>VRecruit</h3>
+
+        <div class="tech">
+          <i class="devicon-angularjs-plain colored"></i>
+          <i class="devicon-dotnetcore-plain colored"></i>
+          <i class="devicon-microsoftsqlserver-plain colored"></i>
+          <i class="devicon-python-plain colored"></i>
+        </div>
+      </div>
+
+      <p class="short">
+        Recruitment platform for sourcing and hiring workflows.
+      </p>
+
+      <div class="details" *ngIf="activeIndex === 2">
+        <ul>
+          <li>Migrated WCF services to Web APIs.</li>
+          <li>Implemented OAuth 2.0 authentication.</li>
+          <li>Automated workflows and email notifications.</li>
+          <li>Handled legacy data migration and tracking.</li>
+          <li>Built email processing system with Python.</li>
+        </ul>
+      </div>
+
+    </div>
+
+  </div>
+
+</section>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">

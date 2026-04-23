@@ -1,0 +1,32 @@
+<div class="modal-overlay" *ngIf="isOpen">
+
+  <div class="modal">
+
+    <div class="modal-header">
+      <h2>Contact Me</h2>
+      <span class="close" (click)="close()">×</span>
+    </div>
+
+    <form (ngSubmit)="submit()">
+
+      <input type="text" [(ngModel)]="form.name" name="name" placeholder="Name *" required>
+      <input type="email" [(ngModel)]="form.email" name="email" placeholder="Email">
+      <input type="text" [(ngModel)]="form.phone" name="phone" placeholder="Phone">
+      <input type="text" [(ngModel)]="form.subject" name="subject" placeholder="Subject *" required>
+      <textarea [(ngModel)]="form.message" name="message" placeholder="Message *"></textarea>
+
+      <!-- honeypot -->
+      <input type="text" name="website" [(ngModel)]="form.website" style="display:none">
+
+      <div class="actions">
+        <button type="button" (click)="clear()" class="clear">Clear</button>
+        <button type="submit" class="submit" [disabled]="isSending">
+          {{ isSending ? 'Sending...' : 'Send' }}
+        </button>
+      </div>
+
+    </form>
+
+  </div>
+
+</div>

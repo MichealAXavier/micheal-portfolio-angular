@@ -1,0 +1,229 @@
+/* RESET */
+h1, h2, h3, p {
+  margin: 0;
+}
+
+/* SECTION */
+.experience-section {
+  padding: 80px 20px;
+  background: #f9fafb;
+}
+
+/* HEADER */
+.section-header {
+  text-align: center;
+  font-size: 44px;
+  font-weight: 700;
+  margin-bottom: 60px;
+  letter-spacing: 4px;
+  color: #222;
+  position: relative;
+}
+
+.section-header::after {
+  content: "";
+  display: block;
+  width: 60%;
+  height: 4px;
+  background: #7c3aed;
+  margin: 12px auto 0;
+  border-radius: 2px;
+}
+
+/* MAIN LAYOUT */
+.experience-container {
+  max-width: 1200px;
+  margin: auto;
+  display: flex;
+  gap: 50px;
+  align-items: flex-start;
+}
+
+/* LEFT SIDE */
+.experience-left {
+  width: 35%;
+}
+
+/* CARD */
+.exp-card {
+  background: linear-gradient(135deg, #6366f1, #7c3aed);
+  padding: 35px 30px;
+  border-radius: 20px;
+  color: #ffffff;
+  box-shadow: 0 25px 60px rgba(0, 0, 0, 0.25);
+  position: relative;
+  overflow: hidden;
+}
+
+/* COMPANY HEADER */
+.company-header {
+  display: flex;
+  align-items: center;
+  font-size: 20px;
+  font-weight: 700;
+  margin-bottom: 35px;
+  letter-spacing: 1px;
+}
+
+.company-header i {
+  margin-right: 10px;
+  font-size: 20px;
+}
+
+.company-header a {
+  color: #ffffff;
+  text-decoration: none;
+  transition: 0.3s;
+}
+
+.company-header a:hover {
+  color: #ffd369;
+  text-decoration: underline;
+}
+
+/* TIMELINE */
+.timeline {
+  position: relative;
+  padding-left: 35px;
+}
+
+/* VERTICAL LINE */
+.timeline::before {
+  content: "";
+  position: absolute;
+  left: 15px;
+  top: 0;
+  width: 3px;
+  height: 100%;
+  background: rgba(255, 255, 255, 0.4);
+  border-radius: 2px;
+}
+
+/* TIMELINE ITEM */
+.timeline-item {
+  position: relative;
+  margin-bottom: 35px;
+}
+
+/* ICON NODE */
+.timeline-icon {
+  position: absolute;
+  left: -2px;
+  top: 2px;
+  width: 32px;
+  height: 32px;
+  background: #ffffff;
+  color: #7c3aed;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 14px;
+  font-weight: bold;
+  transition: 0.3s;
+}
+
+/* HOVER EFFECT */
+.timeline-item:hover .timeline-icon {
+  transform: scale(1.2);
+}
+
+/* CONTENT */
+.timeline-content {
+  margin-left: 45px;
+}
+
+.timeline-content h3 {
+  font-size: 19px;
+  margin-bottom: 6px;
+  font-weight: 600;
+}
+
+.timeline-content p {
+  font-size: 14px;
+  opacity: 0.85;
+}
+
+/* RIGHT SIDE */
+.experience-right {
+  width: 65%;
+}
+
+/* BULLET LIST */
+.experience-right ul {
+  list-style: none;
+  padding: 0;
+}
+
+/* BULLET ITEM */
+.experience-right li {
+  font-size: 17px;
+  margin-bottom: 18px;
+  position: relative;
+  padding-left: 32px;
+  line-height: 1.7;
+  color: #444;
+}
+
+/* CUSTOM BULLET */
+.experience-right li::before {
+  content: "✔";
+  position: absolute;
+  left: 0;
+  top: 0;
+  color: #7c3aed;
+  font-weight: bold;
+  font-size: 16px;
+}
+
+/* ================= RESPONSIVE ================= */
+
+/* TABLET */
+@media (max-width: 992px) {
+
+  .experience-container {
+    flex-direction: column;
+  }
+
+  .experience-left,
+  .experience-right {
+    width: 100%;
+  }
+
+  .experience-left {
+    margin-bottom: 40px;
+  }
+
+  .section-header {
+    font-size: 36px;
+  }
+}
+
+/* MOBILE */
+@media (max-width: 600px) {
+
+  .section-header {
+    font-size: 28px;
+    letter-spacing: 2px;
+  }
+
+  .exp-card {
+    padding: 25px 20px;
+  }
+
+  .company-header {
+    font-size: 16px;
+  }
+
+  .timeline-content h3 {
+    font-size: 16px;
+  }
+
+  .timeline-content p {
+    font-size: 13px;
+  }
+
+  .experience-right li {
+    font-size: 15px;
+  }
+}

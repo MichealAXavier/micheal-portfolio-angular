@@ -1,0 +1,93 @@
+<div class="articles-container">
+
+  <!-- 🔎 TOP BAR -->
+  <div class="top-bar">
+
+    <input type="text"
+           placeholder="Search articles..."
+           [(ngModel)]="searchText"
+           (input)="filterArticles()" />
+
+    <!--<select [(ngModel)]="selectedTag" (change)="filterArticles()">
+      <option value="">All Tags</option>
+      <option value="Angular">Angular</option>
+      <option value=".NET">.NET</option>
+      <option value="SQL">SQL</option>
+      <option value="C#">C#</option>
+      <option value="JavaScript">JavaScript</option>
+    </select>-->
+
+  </div>
+
+
+
+  <!-- 🏷 QUICK TAG FILTERS -->
+  <div class="tag-bar">
+    <button (click)="selectedTag=''; filterArticles()">All</button>
+    <button (click)="selectedTag='.NET'; filterArticles()">.NET</button>
+    <button (click)="selectedTag='C#'; filterArticles()">C#</button>
+    <button (click)="selectedTag='Angular'; filterArticles()">Angular</button>
+  </div>
+
+  <!-- 🚫 NO DATA STATE -->
+  <div class="empty-state" *ngIf="paginatedArticles.length === 0">
+
+    <div class="empty-icon">
+      <i class="fas fa-search"></i>
+    </div>
+
+    <h2>No Articles Found</h2>
+
+    <p>
+      We couldn’t find any articles matching your search or filter.
+    </p>
+
+    <!--<button (click)="searchText=''; selectedTag=''; filterArticles()">
+      Clear Filters
+    </button>-->
+
+  </div>
+  <!-- 🎴 GRID -->
+  <div class="grid" *ngIf="paginatedArticles.length > 0">
+
+    <div class="card"
+         *ngFor="let article of paginatedArticles; trackBy: trackById">
+
+      <div class="icon">
+        <i [class]="article.logo"></i>
+      </div>
+
+      <h3>{{ article.title }}</h3>
+
+      <span class="tag">{{ article.tag }}</span>
+
+      <p>{{ article.description }}</p>
+
+      <div class="footer">
+        <span><i class="fas fa-eye"></i> {{ article.views }}</span>
+
+        <a [href]="article.link" target="_blank">
+          Read →
+        </a>
+      </div>
+
+    </div>
+
+  </div>
+
+  <!-- 📄 PAGINATION -->
+  <div class="pagination" *ngIf="paginatedArticles.length > 0">
+
+    <button (click)="changePage(page - 1)">Prev</button>
+
+    <button *ngFor="let p of [].constructor(totalPages); let i = index"
+            (click)="changePage(i + 1)"
+            [class.active]="page === i + 1">
+      {{ i + 1 }}
+    </button>
+
+    <button (click)="changePage(page + 1)">Next</button>
+
+  </div>
+
+</div>

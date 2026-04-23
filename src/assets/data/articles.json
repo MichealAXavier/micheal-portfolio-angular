@@ -1,0 +1,294 @@
+[
+  {
+    "id": 1,
+    "logo": "fas fa-database",
+    "title": "Transaction Management in .NET EF Core",
+    "tag": "Entity Framework",
+    "description": "A guide to implementing and managing transactions within Entity Framework Core for data integrity.",
+    "views": 400,
+    "link": "https://www.c-sharpcorner.com/article/transaction-management-in-net-ef-core/"
+  },
+  {
+    "id": 2,
+    "logo": "fas fa-code",
+    "title": "Deep Dive into Object-Oriented Programming (OOP) in C#",
+    "tag": "C#",
+    "description": "An in-depth look at OOP concepts in C#, covering classes, objects, and internal mechanics.",
+    "views": 756,
+    "link": "https://www.c-sharpcorner.com/article/deep-dive-into-object-oriented-programming-oop-in-c-sharp/"
+  },
+  {
+    "id": 3,
+    "logo": "fas fa-shield-alt",
+    "title": "The Foundation of Security in .NET: Authentication & Authorization",
+    "tag": ".NET",
+    "description": "Understanding how security is handled in the .NET ecosystem through authentication and authorization.",
+    "views": 894,
+    "link": "https://www.c-sharpcorner.com/article/the-foundation-of-security-in-net-authentication-authorization/"
+  },
+  {
+    "id": 4,
+    "logo": "fas fa-bolt",
+    "title": "Events and Event Handlers in C#",
+    "tag": "C#",
+    "description": "Exploring how to implement and use events and event handlers for decoupled communication in C#.",
+    "views": 2000,
+    "link": "https://www.c-sharpcorner.com/article/events-and-event-handlers-in-c-sharp/"
+  },
+  {
+    "id": 5,
+    "logo": "fas fa-project-diagram",
+    "title": "Understanding Delegates in C#",
+    "tag": "C#",
+    "description": "A comprehensive look at delegates as type-safe function pointers in the C# language.",
+    "views": 2300,
+    "link": "https://www.c-sharpcorner.com/article/understanding-delegates-in-c-sharp2/"
+  },
+  {
+    "id": 6,
+    "logo": "fas fa-cubes",
+    "title": "Generics in C#: Introduction and Usage",
+    "tag": "C#",
+    "description": "Introduction to generic programming in C# to create reusable, type-safe data structures.",
+    "views": 2000,
+    "link": "https://www.c-sharpcorner.com/article/generics-in-c-sharp-introduction-and-usage/"
+  },
+  {
+    "id": 7,
+    "logo": "fas fa-list-ul",
+    "title": "Understanding HashSet in C#",
+    "tag": "Algorithms",
+    "description": "Exploring the HashSet collection in C# for high-performance set operations and uniqueness.",
+    "views": 5000,
+    "link": "https://www.c-sharpcorner.com/article/understanding-hashset-in-c-sharp2/"
+  },
+  {
+    "id": 8,
+    "logo": "fas fa-cogs",
+    "title": "Understanding .NET Worker Services",
+    "tag": "Windows Services",
+    "description": "How to build long-running background tasks and services using the .NET Worker Service template.",
+    "views": 3100,
+    "link": "https://www.c-sharpcorner.com/article/understanding-net-worker-services/"
+  },
+  {
+    "id": 9,
+    "logo": "fas fa-filter",
+    "title": "LINQ: Foundational Concepts",
+    "tag": "LINQ",
+    "description": "A guide to the core concepts of Language Integrated Query (LINQ) in .NET.",
+    "views": 2200,
+    "link": "https://www.c-sharpcorner.com/article/linq-foundational-concepts/"
+  },
+  {
+    "id": 10,
+    "logo": "fas fa-sync-alt",
+    "title": "Async and Await in C#",
+    "tag": "C#",
+    "description": "Mastering asynchronous programming patterns with async and await for responsive applications.",
+    "views": 4100,
+    "link": "https://www.c-sharpcorner.com/article/async-and-await-in-c-sharp3/"
+  },
+  {
+    "id": 11,
+    "logo": "fas fa-exchange-alt",
+    "title": "IEnumerable vs IQueryable in .NET",
+    "tag": ".NET",
+    "description": "Comparing the performance and behavior of IEnumerable and IQueryable in data querying.",
+    "views": 12800,
+    "link": "https://www.c-sharpcorner.com/article/ienumerable-vs-iqueryable-in-net/"
+  },
+  {
+    "id": 12,
+    "logo": "fas fa-key",
+    "title": "Access Modifiers in C#",
+    "tag": "C#",
+    "description": "A guide to public, private, protected, and internal modifiers to control class accessibility.",
+    "views": 1900,
+    "link": "https://www.c-sharpcorner.com/article/access-modifiers-in-c-sharp-the-keys-locks-and-secret-passcodes-every-developer-mu/"
+  },
+  {
+    "id": 13,
+    "logo": "fas fa-database",
+    "title": "How to Connect ASP.NET Core MVC with Database using EF Core (DB-First)",
+    "tag": "ASP.NET Core",
+    "description": "Step-by-step tutorial on implementing the Database-First approach with EF Core and MVC.",
+    "views": 3500,
+    "link": "https://www.c-sharpcorner.com/article/how-to-connect-asp-net-core-mvc-with-database-using-ef-core-db-first/"
+  },
+  {
+    "id": 14,
+    "logo": "fas fa-question-circle",
+    "title": "The Null Survival Kit: Understanding C# Null Operators",
+    "tag": "C#",
+    "description": "Explaining null-conditional, null-coalescing, and other operators to handle null values safely.",
+    "views": 2200,
+    "link": "https://www.c-sharpcorner.com/article/the-null-survival-kit-understanding-c-sharp-null-operators/"
+  },
+  {
+    "id": 15,
+    "logo": "fas fa-heartbeat",
+    "title": "ASP.NET Core Application Lifecycle",
+    "tag": "ASP.NET Core",
+    "description": "Understanding the startup and shutdown sequence of an ASP.NET Core web application.",
+    "views": 3900,
+    "link": "https://www.c-sharpcorner.com/article/asp-net-core-application-lifecycle/"
+  },
+  {
+    "id": 16,
+    "logo": "fas fa-network-wired",
+    "title": "Understanding AJAX (Asynchronous JavaScript and XML)",
+    "tag": "AJAX",
+    "description": "Introduction to AJAX for making asynchronous web requests and updating UI dynamically.",
+    "views": 1200,
+    "link": "https://www.c-sharpcorner.com/article/understanding-ajax-asynchronous-javascript-and-xml/"
+  },
+  {
+    "id": 17,
+    "logo": "fas fa-layer-group",
+    "title": "Understanding Entity Framework in .NET",
+    "tag": ".NET",
+    "description": "An overview of Object-Relational Mapping (ORM) using Entity Framework in .NET.",
+    "views": 3000,
+    "link": "https://www.c-sharpcorner.com/article/understanding-entity-framework-in-net/"
+  },
+  {
+    "id": 18,
+    "logo": "fas fa-mouse-pointer",
+    "title": "Events and Event Handlers in Javascript",
+    "tag": "JavaScript",
+    "description": "A guide to managing user interactions and browser events in modern JavaScript.",
+    "views": 2100,
+    "link": "https://www.c-sharpcorner.com/article/events-and-event-handlers-in-javascript/"
+  },
+  {
+    "id": 19,
+    "logo": "fas fa-sitemap",
+    "title": "Understanding .NET MVC",
+    "tag": ".NET",
+    "description": "Breaking down the Model-View-Controller architecture in the context of .NET development.",
+    "views": 8700,
+    "link": "https://www.c-sharpcorner.com/article/understanding-net-mvc/"
+  },
+  {
+    "id": 20,
+    "logo": "fas fa-terminal",
+    "title": "Variables in JavaScript",
+    "tag": "JavaScript",
+    "description": "Understanding variable scope, declaration, and types (var, let, const) in JavaScript.",
+    "views": 8000,
+    "link": "https://www.c-sharpcorner.com/article/scopes-and-variables-in-javascript3/"
+  },
+  {
+    "id": 21,
+    "logo": "fas fa-box-open",
+    "title": "Nuget Package Manager in .NET",
+    "tag": ".NET",
+    "description": "How to manage external libraries and dependencies using the NuGet package manager.",
+    "views": 11500,
+    "link": "https://www.c-sharpcorner.com/article/nuget-package-manager-in-net/"
+  },
+  {
+    "id": 22,
+    "logo": "fas fa-recycle",
+    "title": "Garbage Collection (GC) in .NET",
+    "tag": ".NET",
+    "description": "Deep dive into how .NET manages memory and handles automatic resource cleanup.",
+    "views": 6700,
+    "link": "https://www.c-sharpcorner.com/article/garbage-collection-gc-in-net/"
+  },
+  {
+    "id": 23,
+    "logo": "fas fa-file-code",
+    "title": "What Is the DOM (Document Object Model)",
+    "tag": "JavaScript",
+    "description": "Understanding the tree-like structure of web documents and how to interact with it.",
+    "views": 7800,
+    "link": "https://www.c-sharpcorner.com/article/what-is-the-domdocument-object-model/"
+  },
+  {
+    "id": 24,
+    "logo": "fas fa-server",
+    "title": "Common Language Runtime (CLR) in .NET",
+    "tag": ".NET",
+    "description": "Understanding the execution engine that handles .NET applications and their runtime environment.",
+    "views": 11300,
+    "link": "https://www.c-sharpcorner.com/article/common-language-runtime-clr-in-net/"
+  },
+  {
+    "id": 25,
+    "logo": "fas fa-anchor",
+    "title": "Understanding Angular Lifecycle Hooks",
+    "tag": "Angular",
+    "description": "Complete guide to Angular lifecycle hooks with implementation details and examples.",
+    "views": 10300,
+    "link": "https://www.c-sharpcorner.com/article/angular-lifecycle-hooks/"
+  },
+  
+    {
+      "id": 26,
+      "logo": "fas fa-archive",
+      "title": ".NET Base Class Library (BCL)",
+      "tag": ".NET",
+      "description": "An overview of the Base Class Library (BCL) in .NET and how it provides foundational types and utility functions.",
+      "views": 12400,
+      "link": "https://www.c-sharpcorner.com/article/net-base-class-librarybcl/"
+    },
+    {
+      "id": 27,
+      "logo": "fas fa-mortar-pestle",
+      "title": "Understanding SOLID Principles with simple Console App in .NET",
+      "tag": "C#",
+      "description": "A practical guide to implementing SOLID principles in a .NET Console Application for better software design.",
+      "views": 8900,
+      "link": "https://www.c-sharpcorner.com/article/understanding-solid-principles-with-simple-console-app-in-net/"
+    },
+    {
+      "id": 28,
+      "logo": "fas fa-city",
+      "title": "Mastering .NET Architecture",
+      "tag": ".NET",
+      "description": "A deep dive into the architectural patterns and structures that define modern .NET applications.",
+      "views": 12800,
+      "link": "https://www.c-sharpcorner.com/article/mastering-net-architecture/"
+    },
+    {
+      "id": 29,
+      "logo": "fas fa-hourglass-half",
+      "title": "Service Lifetimes in ASP.NET Core: Transient vs Scoped vs Singleton",
+      "tag": ".NET Core",
+      "description": "Explaining Dependency Injection lifetimes in ASP.NET Core and when to use each one.",
+      "views": 9200,
+      "link": "https://www.c-sharpcorner.com/article/service-lifetimes-in-asp-net-co-transient-vs-scoped-vs-singleton/"
+    },
+  {
+    "id": 30,
+    "logo": "fas fa-globe",
+    "title": "Understanding the .NET Ecosystem",
+    "tag": ".NET",
+    "description": "A broad overview of the various components, runtimes, and tools that make up the .NET ecosystem today.",
+    "views": 5000,
+    "link": "https://www.c-sharpcorner.com/article/understanding-the-net-ecosystem/"
+  },
+  
+    {
+      "id": 1,
+      "logo": "fas fa-book",
+      "title": "Fundamentals of DBMS (Database Management Systems)",
+      "tag": "SQL",
+      "description": "A comprehensive ebook covering the core concepts of Database Management Systems, including architecture and SQL fundamentals.",
+      "views": 1800,
+      "link": "https://www.c-sharpcorner.com/ebooks/fundamentals-of-dbms-database-management-systems"
+    },
+    {
+      "id": 2,
+      "logo": "fas fa-book-open",
+      "title": "HTML5 For Beginners",
+      "tag": "HTML5",
+      "description": "An all-in-one beginner-friendly guide to learning HTML5 for building modern web pages.",
+      "views": 3100,
+      "link": "https://www.c-sharpcorner.com/ebooks/html5-for-beginners"
+    }
+  
+  
+]

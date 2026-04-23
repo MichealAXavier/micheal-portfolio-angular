@@ -1,0 +1,128 @@
+
+/* SECTION */
+.achieve-section {
+  background: linear-gradient(135deg, #f9fafb, #ffffff);
+  padding: 80px 20px;
+  text-align: center;
+}
+
+/* HEADER */
+.section-header {
+  font-size: 42px;
+  font-weight: 700;
+  margin-bottom: 50px;
+  color: #222;
+  letter-spacing: 3px;
+}
+
+.section-header::after {
+  content: "";
+  display: block;
+  width: 60px;
+  height: 4px;
+  background: #7c3aed;
+  margin: 10px auto 0;
+}
+
+/* CARD */
+.achieve-card {
+  max-width: 650px;
+  margin: auto;
+  padding: 40px 30px;
+  background: #ffffff;
+  border-radius: 20px;
+  box-shadow: 0 20px 50px rgba(0,0,0,0.08);
+  border: 1px solid #eee;
+  transition: 0.3s;
+}
+
+
+/* PROFILE BUTTON */
+.profile-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  margin-top: 25px;
+  padding: 10px 18px;
+  background: #7c3aed;
+  color: #ffffff;
+  border-radius: 25px;
+  font-size: 14px;
+  font-weight: 600;
+  text-decoration: none;
+  transition: 0.3s ease;
+  box-shadow: 0 10px 20px rgba(124, 58, 237, 0.25);
+}
+
+/* ICON */
+.profile-btn i {
+  font-size: 14px;
+}
+
+/* HOVER */
+.profile-btn:hover {
+  background: #5b21b6;
+  transform: translateY(-3px);
+  box-shadow: 0 15px 30px rgba(124, 58, 237, 0.35);
+}
+
+.achieve-card:hover {
+  transform: translateY(-8px);
+  box-shadow: 0 25px 60px rgba(0,0,0,0.15);
+}
+
+/* BADGE ICON */
+.badge-icon {
+  font-size: 60px;
+  color: #f59e0b; /* gold */
+  margin-bottom: 15px;
+}
+
+/* TITLE */
+.achieve-card h2 {
+  font-size: 30px;
+  margin-bottom: 5px;
+  color: #111;
+}
+
+/* SUBTITLE */
+.achieve-card h4 {
+  font-size: 18px;
+  color: #7c3aed;
+  margin-bottom: 20px;
+}
+
+/* TEXT */
+.achieve-card p {
+  font-size: 16px;
+  color: #555;
+  line-height: 1.7;
+}
+
+/* TAG */
+.tag {
+  margin-top: 20px;
+  display: inline-block;
+  padding: 8px 16px;
+  background: #ecfdf5;
+  color: #047857;
+  font-weight: 600;
+  border-radius: 20px;
+  font-size: 14px;
+}
+
+/* ================= RESPONSIVE ================= */
+
+@media (max-width: 600px) {
+  .section-header {
+    font-size: 30px;
+  }
+
+  .achieve-card {
+    padding: 25px 20px;
+  }
+
+  .achieve-card h2 {
+    font-size: 24px;
+  }
+}

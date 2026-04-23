@@ -1,0 +1,920 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\DISK D\\Training Tasks\\Angular\\learn-angular\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\DISK D\\Training Tasks\\Angular\\learn-angular\\src\\app\\features\\about\\about.component.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\features\\about\\about.component.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\DISK D\\Training Tasks\\Angular\\learn-angular\\src\\app\\features\\about\\about.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\features\\about\\about.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\DISK D\\Training Tasks\\Angular\\learn-angular\\src\\app\\shared\\footer\\footer.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\shared\\footer\\footer.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\DISK D\\Training Tasks\\Angular\\learn-angular\\src\\app\\features\\achievements\\achievements.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\features\\achievements\\achievements.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\DISK D\\Training Tasks\\Angular\\learn-angular\\src\\app\\features\\achievements\\achievements.component.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\features\\achievements\\achievements.component.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\DISK D\\Training Tasks\\Angular\\learn-angular\\src\\app\\features\\certifications\\certifications.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\features\\certifications\\certifications.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\DISK D\\Training Tasks\\Angular\\learn-angular\\src\\app\\features\\certifications\\certifications.component.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\features\\certifications\\certifications.component.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\DISK D\\Training Tasks\\Angular\\learn-angular\\src\\app\\features\\education\\education.component.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\features\\education\\education.component.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\DISK D\\Training Tasks\\Angular\\learn-angular\\src\\app\\features\\education\\education.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\features\\education\\education.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\DISK D\\Training Tasks\\Angular\\learn-angular\\src\\app\\features\\projects\\projects.component.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\features\\projects\\projects.component.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\DISK D\\Training Tasks\\Angular\\learn-angular\\src\\app\\features\\projects\\projects.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\features\\projects\\projects.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\DISK D\\Training Tasks\\Angular\\learn-angular\\src\\app\\features\\projects\\projects.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\features\\projects\\projects.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\DISK D\\Training Tasks\\Angular\\learn-angular\\src\\app\\features\\experience\\experience.component.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\features\\experience\\experience.component.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\DISK D\\Training Tasks\\Angular\\learn-angular\\src\\app\\features\\experience\\experience.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\features\\experience\\experience.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\DISK D\\Training Tasks\\Angular\\learn-angular\\src\\app\\features\\skills\\skills.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\features\\skills\\skills.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\DISK D\\Training Tasks\\Angular\\learn-angular\\src\\app\\features\\skills\\skills.component.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\features\\skills\\skills.component.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\DISK D\\Training Tasks\\Angular\\learn-angular\\src\\assets\\logo\\Profile_bg.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\assets\\logo\\Profile_bg.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\DISK D\\Training Tasks\\Angular\\learn-angular\\src\\app\\features\\about\\about.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\features\\about\\about.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\DISK D\\Training Tasks\\Angular\\learn-angular\\src\\app\\shared\\navbar\\navbar.component.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\shared\\navbar\\navbar.component.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\DISK D\\Training Tasks\\Angular\\learn-angular\\src\\app\\shared\\navbar\\navbar.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\shared\\navbar\\navbar.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\DISK D\\Training Tasks\\Angular\\learn-angular\\src\\app\\shared\\navbar\\navbar.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\shared\\navbar\\navbar.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\DISK D\\Training Tasks\\Angular\\learn-angular\\src\\app\\features\\home\\home.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\features\\home\\home.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\DISK D\\Training Tasks\\Angular\\learn-angular\\src\\app\\app.config.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\app.config.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\DISK D\\Training Tasks\\Angular\\learn-angular\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\DISK D\\Training Tasks\\Angular\\learn-angular\\src\\app\\app.routes.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\app.routes.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\DISK D\\Training Tasks\\Angular\\learn-angular\\src\\styles.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\styles.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\DISK D\\Training Tasks\\Angular\\learn-angular\\src\\app\\features\\home\\home.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\features\\home\\home.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\DISK D\\Training Tasks\\Angular\\learn-angular\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\DISK D\\Training Tasks\\Angular\\learn-angular\\src\\services\\article.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\services\\article.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\DISK D\\Training Tasks\\Angular\\learn-angular\\src\\app\\features\\articles\\articles.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\features\\articles\\articles.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\DISK D\\Training Tasks\\Angular\\learn-angular\\public\\favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:public\\favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\DISK D\\Training Tasks\\Angular\\learn-angular\\src\\app\\features\\articles\\articles.component.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\features\\articles\\articles.component.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\DISK D\\Training Tasks\\Angular\\learn-angular\\src\\app\\features\\articles\\articles.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\features\\articles\\articles.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\DISK D\\Training Tasks\\Angular\\learn-angular\\angular.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:angular.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\DISK D\\Training Tasks\\Angular\\learn-angular\\src\\app\\features\\contact\\contact.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\features\\contact\\contact.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\DISK D\\Training Tasks\\Angular\\learn-angular\\src\\app\\features\\articles\\articles.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\features\\articles\\articles.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\DISK D\\Training Tasks\\Angular\\learn-angular\\src\\assets\\data\\articles.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\assets\\data\\articles.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\DISK D\\Training Tasks\\Angular\\learn-angular\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\DISK D\\Training Tasks\\Angular\\learn-angular\\src\\app\\features\\contact\\contact.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\features\\contact\\contact.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\DISK D\\Training Tasks\\Angular\\learn-angular\\src\\app\\features\\contact\\contact.component.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\features\\contact\\contact.component.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\DISK D\\Training Tasks\\Angular\\learn-angular\\src\\app\\features\\contact\\contact.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\features\\contact\\contact.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\DISK D\\Training Tasks\\Angular\\learn-angular\\src\\app\\app.component.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\app.component.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\DISK D\\Training Tasks\\Angular\\learn-angular\\src\\models\\article.model.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\models\\article.model.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\DISK D\\Training Tasks\\Angular\\learn-angular\\src\\app\\app.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\app.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\DISK D\\Training Tasks\\Angular\\learn-angular\\src\\main.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\main.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\DISK D\\Training Tasks\\Angular\\learn-angular\\src\\environments\\environment.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\environments\\environment.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\DISK D\\Training Tasks\\Angular\\learn-angular\\src\\environments\\environment.prod.ts||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\environments\\environment.prod.ts||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\DISK D\\Training Tasks\\Angular\\learn-angular\\src\\app\\shared\\footer\\footer.component.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\shared\\footer\\footer.component.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\DISK D\\Training Tasks\\Angular\\learn-angular\\src\\app\\shared\\footer\\footer.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\shared\\footer\\footer.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\DISK D\\Training Tasks\\Angular\\learn-angular\\src\\app\\shared\\footer\\footer.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\shared\\footer\\footer.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 19,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:142:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "achievements.component.scss",
+              "DocumentMoniker": "E:\\DISK D\\Training Tasks\\Angular\\learn-angular\\src\\app\\features\\achievements\\achievements.component.scss",
+              "RelativeDocumentMoniker": "src\\app\\features\\achievements\\achievements.component.scss",
+              "ToolTip": "E:\\DISK D\\Training Tasks\\Angular\\learn-angular\\src\\app\\features\\achievements\\achievements.component.scss",
+              "RelativeToolTip": "src\\app\\features\\achievements\\achievements.component.scss",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAqwEIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
+              "WhenOpened": "2026-04-18T17:50:36.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "achievements.component.html",
+              "DocumentMoniker": "E:\\DISK D\\Training Tasks\\Angular\\learn-angular\\src\\app\\features\\achievements\\achievements.component.html",
+              "RelativeDocumentMoniker": "src\\app\\features\\achievements\\achievements.component.html",
+              "ToolTip": "E:\\DISK D\\Training Tasks\\Angular\\learn-angular\\src\\app\\features\\achievements\\achievements.component.html",
+              "RelativeToolTip": "src\\app\\features\\achievements\\achievements.component.html",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAqwBsAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-04-18T17:50:19.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "certifications.component.scss",
+              "DocumentMoniker": "E:\\DISK D\\Training Tasks\\Angular\\learn-angular\\src\\app\\features\\certifications\\certifications.component.scss",
+              "RelativeDocumentMoniker": "src\\app\\features\\certifications\\certifications.component.scss",
+              "ToolTip": "E:\\DISK D\\Training Tasks\\Angular\\learn-angular\\src\\app\\features\\certifications\\certifications.component.scss",
+              "RelativeToolTip": "src\\app\\features\\certifications\\certifications.component.scss",
+              "ViewState": "AQIAAGgAAAAAAAAAAAAqwHwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
+              "WhenOpened": "2026-04-18T17:41:43.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "certifications.component.html",
+              "DocumentMoniker": "E:\\DISK D\\Training Tasks\\Angular\\learn-angular\\src\\app\\features\\certifications\\certifications.component.html",
+              "RelativeDocumentMoniker": "src\\app\\features\\certifications\\certifications.component.html",
+              "ToolTip": "E:\\DISK D\\Training Tasks\\Angular\\learn-angular\\src\\app\\features\\certifications\\certifications.component.html",
+              "RelativeToolTip": "src\\app\\features\\certifications\\certifications.component.html",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAEEAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-04-18T17:41:26.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "footer.component.html",
+              "DocumentMoniker": "E:\\DISK D\\Training Tasks\\Angular\\learn-angular\\src\\app\\shared\\footer\\footer.component.html",
+              "RelativeDocumentMoniker": "src\\app\\shared\\footer\\footer.component.html",
+              "ToolTip": "E:\\DISK D\\Training Tasks\\Angular\\learn-angular\\src\\app\\shared\\footer\\footer.component.html",
+              "RelativeToolTip": "src\\app\\shared\\footer\\footer.component.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-04-15T15:32:18.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "about.component.html",
+              "DocumentMoniker": "E:\\DISK D\\Training Tasks\\Angular\\learn-angular\\src\\app\\features\\about\\about.component.html",
+              "RelativeDocumentMoniker": "src\\app\\features\\about\\about.component.html",
+              "ToolTip": "E:\\DISK D\\Training Tasks\\Angular\\learn-angular\\src\\app\\features\\about\\about.component.html",
+              "RelativeToolTip": "src\\app\\features\\about\\about.component.html",
+              "ViewState": "AQIAADMAAAAAAAAAAAAqwDkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-04-18T15:49:20.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "about.component.scss",
+              "DocumentMoniker": "E:\\DISK D\\Training Tasks\\Angular\\learn-angular\\src\\app\\features\\about\\about.component.scss",
+              "RelativeDocumentMoniker": "src\\app\\features\\about\\about.component.scss",
+              "ToolTip": "E:\\DISK D\\Training Tasks\\Angular\\learn-angular\\src\\app\\features\\about\\about.component.scss",
+              "RelativeToolTip": "src\\app\\features\\about\\about.component.scss",
+              "ViewState": "AQIAANkAAAAAAAAAAAAqwOAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
+              "WhenOpened": "2026-04-18T15:50:07.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "education.component.scss",
+              "DocumentMoniker": "E:\\DISK D\\Training Tasks\\Angular\\learn-angular\\src\\app\\features\\education\\education.component.scss",
+              "RelativeDocumentMoniker": "src\\app\\features\\education\\education.component.scss",
+              "ToolTip": "E:\\DISK D\\Training Tasks\\Angular\\learn-angular\\src\\app\\features\\education\\education.component.scss",
+              "RelativeToolTip": "src\\app\\features\\education\\education.component.scss",
+              "ViewState": "AQIAAJwAAAAAAAAAAAAqwLAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
+              "WhenOpened": "2026-04-18T17:17:15.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "education.component.html",
+              "DocumentMoniker": "E:\\DISK D\\Training Tasks\\Angular\\learn-angular\\src\\app\\features\\education\\education.component.html",
+              "RelativeDocumentMoniker": "src\\app\\features\\education\\education.component.html",
+              "ToolTip": "E:\\DISK D\\Training Tasks\\Angular\\learn-angular\\src\\app\\features\\education\\education.component.html",
+              "RelativeToolTip": "src\\app\\features\\education\\education.component.html",
+              "ViewState": "AQIAABgAAAAAAAAAAAAqwC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-04-18T17:17:00.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "projects.component.scss",
+              "DocumentMoniker": "E:\\DISK D\\Training Tasks\\Angular\\learn-angular\\src\\app\\features\\projects\\projects.component.scss",
+              "RelativeDocumentMoniker": "src\\app\\features\\projects\\projects.component.scss",
+              "ToolTip": "E:\\DISK D\\Training Tasks\\Angular\\learn-angular\\src\\app\\features\\projects\\projects.component.scss",
+              "RelativeToolTip": "src\\app\\features\\projects\\projects.component.scss",
+              "ViewState": "AQIAAF4AAAAAAAAAAAAqwGYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
+              "WhenOpened": "2026-04-18T17:13:16.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "projects.component.html",
+              "DocumentMoniker": "E:\\DISK D\\Training Tasks\\Angular\\learn-angular\\src\\app\\features\\projects\\projects.component.html",
+              "RelativeDocumentMoniker": "src\\app\\features\\projects\\projects.component.html",
+              "ToolTip": "E:\\DISK D\\Training Tasks\\Angular\\learn-angular\\src\\app\\features\\projects\\projects.component.html",
+              "RelativeToolTip": "src\\app\\features\\projects\\projects.component.html",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAqwGUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-04-18T17:13:06.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "projects.component.ts",
+              "DocumentMoniker": "E:\\DISK D\\Training Tasks\\Angular\\learn-angular\\src\\app\\features\\projects\\projects.component.ts",
+              "RelativeDocumentMoniker": "src\\app\\features\\projects\\projects.component.ts",
+              "ToolTip": "E:\\DISK D\\Training Tasks\\Angular\\learn-angular\\src\\app\\features\\projects\\projects.component.ts",
+              "RelativeToolTip": "src\\app\\features\\projects\\projects.component.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-04-18T17:12:51.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "experience.component.scss",
+              "DocumentMoniker": "E:\\DISK D\\Training Tasks\\Angular\\learn-angular\\src\\app\\features\\experience\\experience.component.scss",
+              "RelativeDocumentMoniker": "src\\app\\features\\experience\\experience.component.scss",
+              "ToolTip": "E:\\DISK D\\Training Tasks\\Angular\\learn-angular\\src\\app\\features\\experience\\experience.component.scss",
+              "RelativeToolTip": "src\\app\\features\\experience\\experience.component.scss",
+              "ViewState": "AQIAANEAAAAAAAAAAAAqwOUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
+              "WhenOpened": "2026-04-18T17:01:24.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "experience.component.html",
+              "DocumentMoniker": "E:\\DISK D\\Training Tasks\\Angular\\learn-angular\\src\\app\\features\\experience\\experience.component.html",
+              "RelativeDocumentMoniker": "src\\app\\features\\experience\\experience.component.html",
+              "ToolTip": "E:\\DISK D\\Training Tasks\\Angular\\learn-angular\\src\\app\\features\\experience\\experience.component.html",
+              "RelativeToolTip": "src\\app\\features\\experience\\experience.component.html",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAqwBAAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-04-18T17:00:59.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "skills.component.scss",
+              "DocumentMoniker": "E:\\DISK D\\Training Tasks\\Angular\\learn-angular\\src\\app\\features\\skills\\skills.component.scss",
+              "RelativeDocumentMoniker": "src\\app\\features\\skills\\skills.component.scss",
+              "ToolTip": "E:\\DISK D\\Training Tasks\\Angular\\learn-angular\\src\\app\\features\\skills\\skills.component.scss",
+              "RelativeToolTip": "src\\app\\features\\skills\\skills.component.scss",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAqwFwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
+              "WhenOpened": "2026-04-18T16:47:39.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "skills.component.html",
+              "DocumentMoniker": "E:\\DISK D\\Training Tasks\\Angular\\learn-angular\\src\\app\\features\\skills\\skills.component.html",
+              "RelativeDocumentMoniker": "src\\app\\features\\skills\\skills.component.html",
+              "ToolTip": "E:\\DISK D\\Training Tasks\\Angular\\learn-angular\\src\\app\\features\\skills\\skills.component.html",
+              "RelativeToolTip": "src\\app\\features\\skills\\skills.component.html",
+              "ViewState": "AQIAACIAAAAAAAAAAAAqwC0AAABfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-04-18T16:47:27.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Profile_bg.png - PNG [2482x1489, 32 bit, PNG]",
+              "DocumentMoniker": "E:\\DISK D\\Training Tasks\\Angular\\learn-angular\\src\\assets\\logo\\Profile_bg.png",
+              "RelativeDocumentMoniker": "src\\assets\\logo\\Profile_bg.png",
+              "ToolTip": "E:\\DISK D\\Training Tasks\\Angular\\learn-angular\\src\\assets\\logo\\Profile_bg.png - PNG [2482x1489, 32 bit, PNG]",
+              "RelativeToolTip": "src\\assets\\logo\\Profile_bg.png - PNG [2482x1489, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2026-04-18T16:32:54.797Z",
+              "EditorCaption": " - PNG [2482x1489, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "about.component.ts",
+              "DocumentMoniker": "E:\\DISK D\\Training Tasks\\Angular\\learn-angular\\src\\app\\features\\about\\about.component.ts",
+              "RelativeDocumentMoniker": "src\\app\\features\\about\\about.component.ts",
+              "ToolTip": "E:\\DISK D\\Training Tasks\\Angular\\learn-angular\\src\\app\\features\\about\\about.component.ts",
+              "RelativeToolTip": "src\\app\\features\\about\\about.component.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-04-18T15:49:21.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "home.component.html",
+              "DocumentMoniker": "E:\\DISK D\\Training Tasks\\Angular\\learn-angular\\src\\app\\features\\home\\home.component.html",
+              "RelativeDocumentMoniker": "src\\app\\features\\home\\home.component.html",
+              "ToolTip": "E:\\DISK D\\Training Tasks\\Angular\\learn-angular\\src\\app\\features\\home\\home.component.html",
+              "RelativeToolTip": "src\\app\\features\\home\\home.component.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-04-18T14:52:48.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "app.routes.ts",
+              "DocumentMoniker": "E:\\DISK D\\Training Tasks\\Angular\\learn-angular\\src\\app\\app.routes.ts",
+              "RelativeDocumentMoniker": "src\\app\\app.routes.ts",
+              "ToolTip": "E:\\DISK D\\Training Tasks\\Angular\\learn-angular\\src\\app\\app.routes.ts",
+              "RelativeToolTip": "src\\app\\app.routes.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-04-15T14:43:32.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "app.config.ts",
+              "DocumentMoniker": "E:\\DISK D\\Training Tasks\\Angular\\learn-angular\\src\\app\\app.config.ts",
+              "RelativeDocumentMoniker": "src\\app\\app.config.ts",
+              "ToolTip": "E:\\DISK D\\Training Tasks\\Angular\\learn-angular\\src\\app\\app.config.ts",
+              "RelativeToolTip": "src\\app\\app.config.ts",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAcwB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-04-15T15:17:52.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "navbar.component.ts",
+              "DocumentMoniker": "E:\\DISK D\\Training Tasks\\Angular\\learn-angular\\src\\app\\shared\\navbar\\navbar.component.ts",
+              "RelativeDocumentMoniker": "src\\app\\shared\\navbar\\navbar.component.ts",
+              "ToolTip": "E:\\DISK D\\Training Tasks\\Angular\\learn-angular\\src\\app\\shared\\navbar\\navbar.component.ts",
+              "RelativeToolTip": "src\\app\\shared\\navbar\\navbar.component.ts",
+              "ViewState": "AQIAABAAAAAAAAAAAAAcwCQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-04-15T15:19:16.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "navbar.component.html",
+              "DocumentMoniker": "E:\\DISK D\\Training Tasks\\Angular\\learn-angular\\src\\app\\shared\\navbar\\navbar.component.html",
+              "RelativeDocumentMoniker": "src\\app\\shared\\navbar\\navbar.component.html",
+              "ToolTip": "E:\\DISK D\\Training Tasks\\Angular\\learn-angular\\src\\app\\shared\\navbar\\navbar.component.html",
+              "RelativeToolTip": "src\\app\\shared\\navbar\\navbar.component.html",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACEAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-04-15T15:18:53.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "navbar.component.scss",
+              "DocumentMoniker": "E:\\DISK D\\Training Tasks\\Angular\\learn-angular\\src\\app\\shared\\navbar\\navbar.component.scss",
+              "RelativeDocumentMoniker": "src\\app\\shared\\navbar\\navbar.component.scss",
+              "ToolTip": "E:\\DISK D\\Training Tasks\\Angular\\learn-angular\\src\\app\\shared\\navbar\\navbar.component.scss",
+              "RelativeToolTip": "src\\app\\shared\\navbar\\navbar.component.scss",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAuwFQAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
+              "WhenOpened": "2026-04-15T15:19:32.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "home.component.ts",
+              "DocumentMoniker": "E:\\DISK D\\Training Tasks\\Angular\\learn-angular\\src\\app\\features\\home\\home.component.ts",
+              "RelativeDocumentMoniker": "src\\app\\features\\home\\home.component.ts",
+              "ToolTip": "E:\\DISK D\\Training Tasks\\Angular\\learn-angular\\src\\app\\features\\home\\home.component.ts",
+              "RelativeToolTip": "src\\app\\features\\home\\home.component.ts",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAcwA8AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-04-18T14:53:43.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "article.service.ts",
+              "DocumentMoniker": "E:\\DISK D\\Training Tasks\\Angular\\learn-angular\\src\\services\\article.service.ts",
+              "RelativeDocumentMoniker": "src\\services\\article.service.ts",
+              "ToolTip": "E:\\DISK D\\Training Tasks\\Angular\\learn-angular\\src\\services\\article.service.ts",
+              "RelativeToolTip": "src\\services\\article.service.ts",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAowA0AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-04-17T15:11:53.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "styles.scss",
+              "DocumentMoniker": "E:\\DISK D\\Training Tasks\\Angular\\learn-angular\\src\\styles.scss",
+              "RelativeDocumentMoniker": "src\\styles.scss",
+              "ToolTip": "E:\\DISK D\\Training Tasks\\Angular\\learn-angular\\src\\styles.scss",
+              "RelativeToolTip": "src\\styles.scss",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
+              "WhenOpened": "2026-04-15T15:35:33.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "app.component.ts",
+              "DocumentMoniker": "E:\\DISK D\\Training Tasks\\Angular\\learn-angular\\src\\app\\app.component.ts",
+              "RelativeDocumentMoniker": "src\\app\\app.component.ts",
+              "ToolTip": "E:\\DISK D\\Training Tasks\\Angular\\learn-angular\\src\\app\\app.component.ts",
+              "RelativeToolTip": "src\\app\\app.component.ts",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAUwA0AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-04-15T15:17:39.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "articles.component.ts",
+              "DocumentMoniker": "E:\\DISK D\\Training Tasks\\Angular\\learn-angular\\src\\app\\features\\articles\\articles.component.ts",
+              "RelativeDocumentMoniker": "src\\app\\features\\articles\\articles.component.ts",
+              "ToolTip": "E:\\DISK D\\Training Tasks\\Angular\\learn-angular\\src\\app\\features\\articles\\articles.component.ts",
+              "RelativeToolTip": "src\\app\\features\\articles\\articles.component.ts",
+              "ViewState": "AQIAABkAAAAAAAAAAAD4vx0AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-04-17T15:12:11.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "favicon.ico - Icon [48x48, 32 bit, BMP]",
+              "DocumentMoniker": "E:\\DISK D\\Training Tasks\\Angular\\learn-angular\\public\\favicon.ico",
+              "RelativeDocumentMoniker": "public\\favicon.ico",
+              "ToolTip": "E:\\DISK D\\Training Tasks\\Angular\\learn-angular\\public\\favicon.ico - Icon [48x48, 32 bit, BMP]",
+              "RelativeToolTip": "public\\favicon.ico - Icon [48x48, 32 bit, BMP]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001525|",
+              "WhenOpened": "2026-04-18T14:41:43.856Z",
+              "EditorCaption": " - Icon [48x48, 32 bit, BMP]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "angular.json",
+              "DocumentMoniker": "E:\\DISK D\\Training Tasks\\Angular\\learn-angular\\angular.json",
+              "RelativeDocumentMoniker": "angular.json",
+              "ToolTip": "E:\\DISK D\\Training Tasks\\Angular\\learn-angular\\angular.json",
+              "RelativeToolTip": "angular.json",
+              "ViewState": "AQIAAGoAAAAAAAAAAAAcwHYAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-15T15:23:52.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "articles.component.scss",
+              "DocumentMoniker": "E:\\DISK D\\Training Tasks\\Angular\\learn-angular\\src\\app\\features\\articles\\articles.component.scss",
+              "RelativeDocumentMoniker": "src\\app\\features\\articles\\articles.component.scss",
+              "ToolTip": "E:\\DISK D\\Training Tasks\\Angular\\learn-angular\\src\\app\\features\\articles\\articles.component.scss",
+              "RelativeToolTip": "src\\app\\features\\articles\\articles.component.scss",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
+              "WhenOpened": "2026-04-17T15:12:53.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "articles.component.html",
+              "DocumentMoniker": "E:\\DISK D\\Training Tasks\\Angular\\learn-angular\\src\\app\\features\\articles\\articles.component.html",
+              "RelativeDocumentMoniker": "src\\app\\features\\articles\\articles.component.html",
+              "ToolTip": "E:\\DISK D\\Training Tasks\\Angular\\learn-angular\\src\\app\\features\\articles\\articles.component.html",
+              "RelativeToolTip": "src\\app\\features\\articles\\articles.component.html",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-04-17T15:12:42.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "index.html",
+              "DocumentMoniker": "E:\\DISK D\\Training Tasks\\Angular\\learn-angular\\src\\index.html",
+              "RelativeDocumentMoniker": "src\\index.html",
+              "ToolTip": "E:\\DISK D\\Training Tasks\\Angular\\learn-angular\\src\\index.html",
+              "RelativeToolTip": "src\\index.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-04-17T10:46:35.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "contact.component.spec.ts",
+              "DocumentMoniker": "E:\\DISK D\\Training Tasks\\Angular\\learn-angular\\src\\app\\features\\contact\\contact.component.spec.ts",
+              "RelativeDocumentMoniker": "src\\app\\features\\contact\\contact.component.spec.ts",
+              "ToolTip": "E:\\DISK D\\Training Tasks\\Angular\\learn-angular\\src\\app\\features\\contact\\contact.component.spec.ts",
+              "RelativeToolTip": "src\\app\\features\\contact\\contact.component.spec.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-04-17T16:12:44.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "articles.component.spec.ts",
+              "DocumentMoniker": "E:\\DISK D\\Training Tasks\\Angular\\learn-angular\\src\\app\\features\\articles\\articles.component.spec.ts",
+              "RelativeDocumentMoniker": "src\\app\\features\\articles\\articles.component.spec.ts",
+              "ToolTip": "E:\\DISK D\\Training Tasks\\Angular\\learn-angular\\src\\app\\features\\articles\\articles.component.spec.ts",
+              "RelativeToolTip": "src\\app\\features\\articles\\articles.component.spec.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-04-17T16:12:19.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "articles.json",
+              "DocumentMoniker": "E:\\DISK D\\Training Tasks\\Angular\\learn-angular\\src\\assets\\data\\articles.json",
+              "RelativeDocumentMoniker": "src\\assets\\data\\articles.json",
+              "ToolTip": "E:\\DISK D\\Training Tasks\\Angular\\learn-angular\\src\\assets\\data\\articles.json",
+              "RelativeToolTip": "src\\assets\\data\\articles.json",
+              "ViewState": "AQIAABMBAAAAAAAAAAAcwBsBAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-17T15:11:27.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "app.component.html",
+              "DocumentMoniker": "E:\\DISK D\\Training Tasks\\Angular\\learn-angular\\src\\app\\app.component.html",
+              "RelativeDocumentMoniker": "src\\app\\app.component.html",
+              "ToolTip": "E:\\DISK D\\Training Tasks\\Angular\\learn-angular\\src\\app\\app.component.html",
+              "RelativeToolTip": "src\\app\\app.component.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-04-15T15:18:32.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "contact.component.ts",
+              "DocumentMoniker": "E:\\DISK D\\Training Tasks\\Angular\\learn-angular\\src\\app\\features\\contact\\contact.component.ts",
+              "RelativeDocumentMoniker": "src\\app\\features\\contact\\contact.component.ts",
+              "ToolTip": "E:\\DISK D\\Training Tasks\\Angular\\learn-angular\\src\\app\\features\\contact\\contact.component.ts",
+              "RelativeToolTip": "src\\app\\features\\contact\\contact.component.ts",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAcwEwAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-04-17T10:47:17.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "contact.component.scss",
+              "DocumentMoniker": "E:\\DISK D\\Training Tasks\\Angular\\learn-angular\\src\\app\\features\\contact\\contact.component.scss",
+              "RelativeDocumentMoniker": "src\\app\\features\\contact\\contact.component.scss",
+              "ToolTip": "E:\\DISK D\\Training Tasks\\Angular\\learn-angular\\src\\app\\features\\contact\\contact.component.scss",
+              "RelativeToolTip": "src\\app\\features\\contact\\contact.component.scss",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAACsAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
+              "WhenOpened": "2026-04-17T10:49:44.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "contact.component.html",
+              "DocumentMoniker": "E:\\DISK D\\Training Tasks\\Angular\\learn-angular\\src\\app\\features\\contact\\contact.component.html",
+              "RelativeDocumentMoniker": "src\\app\\features\\contact\\contact.component.html",
+              "ToolTip": "E:\\DISK D\\Training Tasks\\Angular\\learn-angular\\src\\app\\features\\contact\\contact.component.html",
+              "RelativeToolTip": "src\\app\\features\\contact\\contact.component.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-04-17T10:47:02.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "app.component.scss",
+              "DocumentMoniker": "E:\\DISK D\\Training Tasks\\Angular\\learn-angular\\src\\app\\app.component.scss",
+              "RelativeDocumentMoniker": "src\\app\\app.component.scss",
+              "ToolTip": "E:\\DISK D\\Training Tasks\\Angular\\learn-angular\\src\\app\\app.component.scss",
+              "RelativeToolTip": "src\\app\\app.component.scss",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
+              "WhenOpened": "2026-04-17T13:06:53.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "article.model.ts",
+              "DocumentMoniker": "E:\\DISK D\\Training Tasks\\Angular\\learn-angular\\src\\models\\article.model.ts",
+              "RelativeDocumentMoniker": "src\\models\\article.model.ts",
+              "ToolTip": "E:\\DISK D\\Training Tasks\\Angular\\learn-angular\\src\\models\\article.model.ts",
+              "RelativeToolTip": "src\\models\\article.model.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-04-17T15:07:41.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "app.component.spec.ts",
+              "DocumentMoniker": "E:\\DISK D\\Training Tasks\\Angular\\learn-angular\\src\\app\\app.component.spec.ts",
+              "RelativeDocumentMoniker": "src\\app\\app.component.spec.ts",
+              "ToolTip": "E:\\DISK D\\Training Tasks\\Angular\\learn-angular\\src\\app\\app.component.spec.ts",
+              "RelativeToolTip": "src\\app\\app.component.spec.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-04-17T13:06:52.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "environment.ts",
+              "DocumentMoniker": "E:\\DISK D\\Training Tasks\\Angular\\learn-angular\\src\\environments\\environment.ts",
+              "RelativeDocumentMoniker": "src\\environments\\environment.ts",
+              "ToolTip": "E:\\DISK D\\Training Tasks\\Angular\\learn-angular\\src\\environments\\environment.ts",
+              "RelativeToolTip": "src\\environments\\environment.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-04-17T12:06:25.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "environment.prod.ts",
+              "DocumentMoniker": "E:\\DISK D\\Training Tasks\\Angular\\learn-angular\\src\\environments\\environment.prod.ts",
+              "RelativeDocumentMoniker": "src\\environments\\environment.prod.ts",
+              "ToolTip": "E:\\DISK D\\Training Tasks\\Angular\\learn-angular\\src\\environments\\environment.prod.ts",
+              "RelativeToolTip": "src\\environments\\environment.prod.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-04-17T12:06:33.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "main.ts",
+              "DocumentMoniker": "E:\\DISK D\\Training Tasks\\Angular\\learn-angular\\src\\main.ts",
+              "RelativeDocumentMoniker": "src\\main.ts",
+              "ToolTip": "E:\\DISK D\\Training Tasks\\Angular\\learn-angular\\src\\main.ts",
+              "RelativeToolTip": "src\\main.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-04-17T12:14:20.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "footer.component.scss",
+              "DocumentMoniker": "E:\\DISK D\\Training Tasks\\Angular\\learn-angular\\src\\app\\shared\\footer\\footer.component.scss",
+              "RelativeDocumentMoniker": "src\\app\\shared\\footer\\footer.component.scss",
+              "ToolTip": "E:\\DISK D\\Training Tasks\\Angular\\learn-angular\\src\\app\\shared\\footer\\footer.component.scss",
+              "RelativeToolTip": "src\\app\\shared\\footer\\footer.component.scss",
+              "ViewState": "AQIAABQAAAAAAAAAAAAqwCEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
+              "WhenOpened": "2026-04-15T15:32:28.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "footer.component.spec.ts",
+              "DocumentMoniker": "E:\\DISK D\\Training Tasks\\Angular\\learn-angular\\src\\app\\shared\\footer\\footer.component.spec.ts",
+              "RelativeDocumentMoniker": "src\\app\\shared\\footer\\footer.component.spec.ts",
+              "ToolTip": "E:\\DISK D\\Training Tasks\\Angular\\learn-angular\\src\\app\\shared\\footer\\footer.component.spec.ts",
+              "RelativeToolTip": "src\\app\\shared\\footer\\footer.component.spec.ts",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-04-15T15:38:15.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "footer.component.ts",
+              "DocumentMoniker": "E:\\DISK D\\Training Tasks\\Angular\\learn-angular\\src\\app\\shared\\footer\\footer.component.ts",
+              "RelativeDocumentMoniker": "src\\app\\shared\\footer\\footer.component.ts",
+              "ToolTip": "E:\\DISK D\\Training Tasks\\Angular\\learn-angular\\src\\app\\shared\\footer\\footer.component.ts",
+              "RelativeToolTip": "src\\app\\shared\\footer\\footer.component.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-04-15T15:38:24.384Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

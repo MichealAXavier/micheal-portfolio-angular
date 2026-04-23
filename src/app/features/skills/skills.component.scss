@@ -1,0 +1,92 @@
+
+/* SECTION */
+.skills-section {
+  background: #ffffff;
+  padding: 80px 20px;
+  text-align: center;
+}
+
+/* HEADER */
+.section-header {
+  font-size: 42px;
+  font-weight: 700;
+  margin-bottom: 50px;
+  color: #222;
+  letter-spacing: 3px;
+  position: relative;
+}
+
+.section-header::after {
+  content: "";
+  display: block;
+  width: 60%;
+  height: 4px;
+  background: #7c3aed;
+  margin: 10px auto 0;
+}
+
+/* GROUP */
+.skill-group {
+  margin-bottom: 50px;
+}
+
+.skill-group h3 {
+  font-size: 22px;
+  margin-bottom: 25px;
+  color: #444;
+}
+
+/* GRID */
+.icon-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(110px, 1fr));
+  gap: 20px;
+  max-width: 1000px;
+  margin: auto;
+}
+
+/* CARD */
+.skill {
+  background: #f9fafb;
+  padding: 20px 10px;
+  border-radius: 12px;
+  transition: 0.3s;
+  border: 1px solid #eee;
+  cursor: pointer;
+}
+
+.skill:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 12px 30px rgba(0,0,0,0.1);
+}
+
+/* ICON */
+.skill i {
+  font-size: 40px;
+  margin-bottom: 10px;
+}
+
+/* fallback for non-devicons */
+.skill i.fas {
+  color: #555;
+}
+
+/* TEXT */
+.skill span {
+  display: block;
+  font-size: 14px;
+  font-weight: 500;
+  color: #333;
+}
+
+/* ================= RESPONSIVE ================= */
+
+@media (max-width: 600px) {
+  .section-header {
+    font-size: 30px;
+  }
+
+  .skill i {
+    font-size: 32px;
+  }
+}
