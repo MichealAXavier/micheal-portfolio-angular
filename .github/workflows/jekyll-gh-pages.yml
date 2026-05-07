@@ -1,59 +1,37 @@
-# Sample workflow for building and deploying a Jekyll site to GitHub Pages
-
-name: Deploy Jekyll site to Pages
+name: Deploy Angular App to GitHub Pages
 
 on:
   push:
     branches:
       - main
 
-  workflow_dispatch:
-
 permissions:
-  contents: read
-  pages: write
-  id-token: write
-
-concurrency:
-  group: "pages"
-  cancel-in-progress: false
+  contents: write
 
 jobs:
-  build:
+  deploy:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout
+      - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Setup Pages
-        uses: actions/configure-pages@v5
-
-      # Optional: Only needed if your project uses Node.js
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
           node-version: 20
 
-      - name: Build with Jekyll
-        uses: actions/jekyll-build-pages@v1
-        with:
-          source: ./
-          destination: ./_site
+      - name: Install dependencies
+        run: npm install
 
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
+      - name: Install Angular CLI
+        run: npm install -g @angular/cli
 
-  deploy:
-    needs: build
+      - name: Build Angular app
+        run: ng build --configuration production --base-href "/micheal-portfolio-angular/"
 
-    runs-on: ubuntu-latest
-
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-
-    steps:
       - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v5
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          branch: gh-pages
+          folder: dist/MichealAXavier/browser
